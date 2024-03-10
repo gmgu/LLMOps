@@ -1,0 +1,7 @@
+datasets
+evaluate
+accelerate
+transformers
+deepspeed
+scikit-learn
+mpi4py
